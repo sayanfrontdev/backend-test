@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is only the test purpose",
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "license": "ISC",
+  "author": "john tylor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
